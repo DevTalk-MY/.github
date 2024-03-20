@@ -8,6 +8,8 @@ This organisation will be used for the purpose of sharing among the DevTalk comm
 |--|----|----------|-------|-----------------|------|
 |1|  |
 
+[You can also check out list of recordings here.](https://ismi-abbas.notion.site/0ccf3a3d1b494dde9cb2b77571fb9587?v=e9e9f65a33b9497694ff4ceb5c31a6bb)
+
 ## Other communities to check out
 
 - [Malaysia AI](https://github.com/malaysia-ai)
