@@ -4,10 +4,11 @@ This organisation will be used for the purpose of sharing among the DevTalk comm
 
 ## Previous Events
 
-|No|Date|Event name|Speaker|Github Repository|Videos|
-|--|----|----------|-------|-----------------|------|
-|1| 9/8/2023 | Bun + HTMX + quick intro | Amirul Abu | https://github.com/amirulabu/blog-comment-bun-htmx | |
-|2| 3/6/2023 - 5/8/2023 | Kubernetes and Terraform | Husein Zolkepli | https://github.com/huseinzolkepli05/terraform-eks-aws/tree/main | |
+|No|Date|Event name|Speaker|Github Repository|
+|--|----|----------|-------|-----------------|
+|1| 3/6/2023 - 5/8/2023 | Kubernetes and Terraform | Husein Zolkepli | https://github.com/huseinzolkepli05/terraform-eks-aws/tree/main |
+|2| 9/8/2023 | Bun + HTMX + quick intro | Amirul Abu | https://github.com/amirulabu/blog-comment-bun-htmx |
+|3| 17/3/2024 | Kubernetes: Traefik Ingress with Plugin | Ariff Nazhan | https://github.com/malaysia-ai/infra/tree/main/traefik-proxy |
 
 [You can also check out list of recordings here.](https://ismi-abbas.notion.site/0ccf3a3d1b494dde9cb2b77571fb9587?v=e9e9f65a33b9497694ff4ceb5c31a6bb)
 
